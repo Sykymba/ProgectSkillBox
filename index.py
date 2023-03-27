@@ -1,6 +1,3 @@
 a = 10
-b = 5
-c = a + b
-a,b,c = c,b,a 
+b = 5 
 print(a, b, )
-print(c)
