@@ -1,4 +1,4 @@
-a = 15
+a = 10 
 b = 5 
 print(a, b )
 print(b, a)
